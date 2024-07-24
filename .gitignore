@@ -1,0 +1,14 @@
+# Ignorar archivos de Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+*.xlam
+
+# Ignorar archivos PDF
+*.pdf
+
+# Ignorar la carpeta data
+data/
